@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00AEEF&size=30&center=true&vCenter=true&width=600&duration=4000&pause=1000&lines=Hi+👋,+I'm+Luis+Miguel+Coral">
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuisMiguelCoral&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-</p>
-
 ---
 
 ### 👨🏻‍💻 About me
