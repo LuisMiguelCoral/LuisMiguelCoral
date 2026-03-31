@@ -1,9 +1,9 @@
 ### Luis Miguel Coral aqui 👋
-Estudante de Ciência da Computação e desenvolvedor em formação. Buscando minha primeira oportunidade na área de TI.
+Estudante de Ciência da Computação e desenvolvedor em formação. Buscando minha oportunidade para cresciemnto e desenvolvimento na área de TI.
 
-- 👨🏻‍💻 Experiência com desenvolvimento de sistema de estoque utilizando **PHP, Laravel e MySQL**
+- 👨🏻‍💻 Experiência com desenvolvimento de sistema utilizando **PHP, Laravel e MySQL**
 - 📚 Sempre buscando aprender novas tecnologias
-- 🚀 Focado em desenvolvimento web
+- 🚀 Focado em desenpenho e qualidade
 
 ---
 
@@ -17,11 +17,24 @@ Estudante de Ciência da Computação e desenvolvedor em formação. Buscando mi
 
 ---
 
-### 📬 Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/luis-coral-0aa983296/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
+<div align="center">
 
-&nbsp;<a href="mailto:luiscoral@edu.unifil.br">
+### 📬 Você também me encontra em:
+
+<a href="https://www.linkedin.com/in/luis-coral-0aa983296/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:luiscoral@edu.unifil.br">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;
+</a>
+
+<a href="https://www.instagram.com/luiscorall/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+
+<a href="https://discord.com/users/348667529620750336">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+</div>
