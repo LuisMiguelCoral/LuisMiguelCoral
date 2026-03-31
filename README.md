@@ -8,28 +8,15 @@ Estudante de Ciência da Computação e desenvolvedor em formação. Buscando mi
 ---
 
 ### 🖥️ Atualmente mais focado em:
-<style>
-.icon {
-  transition: transform 0.3s ease;
-}
-.icon:hover {
-  transform: scale(1.2) rotate(5deg);
-}
-</style>
-
 <div style="display: inline">
-  &nbsp;&nbsp;<img class="icon" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img class="icon" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img class="icon" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img class="icon" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img class="icon" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img class="icon" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img class="icon" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+ &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+ &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+ &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
+ &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />&nbsp;&nbsp;
+ &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+ &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+ &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
 </div>
-
----
-
-<div align="center">
 
 ### 📬 Você também me encontra em:
 
