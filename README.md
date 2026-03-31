@@ -1,46 +1,27 @@
-# Olá! Eu sou o Luis Miguel Coral 👋
+### Luis Miguel Coral aqui 👋
+Estudante de Ciência da Computação e desenvolvedor em formação. Buscando minha primeira oportunidade na área de TI.
 
-🎓 Estudante de Ciência da Computação (UniFil)  
-💻 Desenvolvedor em formação  
-🚀 Buscando minha primeira oportunidade na área de TI  
+- 👨🏻‍💻 Experiência com desenvolvimento de sistema de estoque utilizando **PHP, Laravel e MySQL**
+- 📚 Sempre buscando aprender novas tecnologias
+- 🚀 Focado em desenvolvimento web
 
-Tenho interesse em desenvolvimento web e criação de sistemas que resolvam problemas reais.
+---
 
-## 💼 Experiência
+### 🖥️ Atualmente mais focado em:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />&nbsp;&nbsp;
+</div>
 
-🛒 Operador de Caixa - Panificadora Rogimar  
-Desenvolvi habilidades como:
-- Atendimento ao cliente
-- Organização e responsabilidade
-- Trabalho sob pressão
+---
 
-💻 Estágio (Projeto Acadêmico)
-- Desenvolvimento de sistema de gerenciamento de estoque
-- Tecnologias: PHP, Laravel, MySQL
-- Criação de documentação técnica
-- Identificação de problema real e proposta de solução
+### 📬 Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/luis-coral-0aa983296/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
 
-## 🚀 Projetos
-
-📦 Sistema de Controle de Estoque
-- Desenvolvido com PHP + Laravel + MySQL
-- Criado para resolver problema real em uma panificadora
-- Funcionalidades: cadastro de produtos, controle de estoque, relatórios
-
-## 🧠 Tecnologias
-
-- PHP | Laravel
-- JavaScript
-- Python
-- MySQL
-- Tailwind CSS
-
-## 🎓 Formação
-
-Bacharelado em Ciência da Computação - UniFil  
-Conclusão: 2026
-
-## 🌍 Idiomas
-
-- Português: Nativo  
-- Inglês: Intermediário (B1)
+&nbsp;<a href="mailto:luiscoral@edu.unifil.br">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>&nbsp;
