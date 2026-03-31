@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Luis Miguel Coral
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00AEEF&size=30&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Luis+Miguel+Coral">
 </h1>
 
 <p align="center">
@@ -20,7 +20,17 @@
 
 ---
 
-### 🖥️ Atualmente mais focado em:
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisMiguelCoral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelCoral&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### 🖥️ Currently working with:
+
 <div style="display: inline">
  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
@@ -31,7 +41,9 @@
  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
 </div>
 
-### 📬 Você também me encontra em:
+---
+
+### 📬 Connect with me:
 
 <a href="https://www.instagram.com/luiscorall/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -48,7 +60,3 @@
 <a href="https://discord.com/users/348667529620750336">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-
-</div>
-
-
