@@ -1,9 +1,22 @@
-### Luis Miguel Coral aqui 👋
-Estudante de Ciência da Computação e desenvolvedor em formação. Buscando minha oportunidade para cresciemnto e desenvolvimento na área de TI.
+<h1 align="center">
+  Hi 👋, I'm Luis Miguel Coral
+</h1>
 
-- 👨🏻‍💻 Experiência com desenvolvimento de sistema utilizando **PHP, Laravel e MySQL**
-- 📚 Sempre buscando aprender novas tecnologias
-- 🚀 Focado em desenpenho e qualidade
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00AEEF&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Web+Developer+in+Training;Focused+on+Performance+and+Quality;Always+Learning+New+Technologies">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuisMiguelCoral&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
+
+---
+
+### 👨🏻‍💻 About me
+
+- 💻 Experience developing systems using **PHP, Laravel and MySQL**
+- 📚 Always learning new technologies
+- 🚀 Focused on performance and quality
 
 ---
 
