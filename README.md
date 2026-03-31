@@ -1,9 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Luis Miguel Coral
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00AEEF&size=30&center=true&vCenter=true&width=600&duration=4000&pause=1000&lines=Hi+👋,+I'm+Luis+Miguel+Coral">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00AEEF&size=30&center=true&vCenter=true&width=600&duration=6000&pause=1500&lines=Hi+👋,+I'm+Luis+Miguel+Coral">
 </h1>
 
 <p align="center">
